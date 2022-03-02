@@ -1,0 +1,12 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    color: #fff;
+    background-color: #345;
+    display: grid;
+    place-content: center;
+    font-family: sans-serif;
+}
